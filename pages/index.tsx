@@ -4,11 +4,12 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div>
       <Head>
         <title>Metaverse App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <h1>Let's build the metaverse app</h1>
     </div>
   )
 }

@@ -13,8 +13,6 @@ export default function Home() {
         <title>Metaverse App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Login />
     </div>
   )
 }

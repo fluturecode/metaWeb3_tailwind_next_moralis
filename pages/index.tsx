@@ -9,7 +9,6 @@ const Home: NextPage = () => {
         <title>Metaverse App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Let's build the metaverse app</h1>
       <Login />
     </div>
   )

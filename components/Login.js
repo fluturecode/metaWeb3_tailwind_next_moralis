@@ -1,3 +1,7 @@
 export const Login = () => {
-  return <div>Login</div>;
+  return (
+  <div className="relative bg-black">
+    Login
+    </div>
+  );
 };

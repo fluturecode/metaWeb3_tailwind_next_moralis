@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import logo from '../assets/fluture_logo';
 
 export const Login = () => {
   return (
@@ -6,7 +7,7 @@ export const Login = () => {
       Login
       <div>{/* logo + logo button */}</div>
       <div>
-        <Image src=''/>
+        <Image src={logo}/>
       </div>
     </div>
   )

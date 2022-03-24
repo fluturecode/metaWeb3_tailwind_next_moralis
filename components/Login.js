@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import logo from '../assets/fluture_logo';
+import logo from './fluture_logo';
 
 export const Login = () => {
   return (
